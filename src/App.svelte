@@ -4,8 +4,8 @@
 
 <main>
   <h1>Hello</h1>
-  <p>Svelte Typescript template</p>
-  <Button filled>Button</Button>
+  <p>Svelte Typescript Template</p>
+  <Button outline>Button</Button>
 </main>
 
 <style>

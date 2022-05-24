@@ -1,6 +1,6 @@
 # Svelte Typescript Template
 
-This is a project template for Svelte Typescript apps. 
+This is a project template for Svelte Typescript apps.
 
 ## Packages included
 
@@ -19,9 +19,13 @@ cd svelte-app
 ```
 
 ## Developing
+
 Once you've created a project and installed dependencies with npm install (or pnpm install or yarn), start a development server:
 
 ```bash
+# to enable git hooks
+npm run prepare
+
 npm run dev
 
 # or start the server and open the app in a new browser tab
